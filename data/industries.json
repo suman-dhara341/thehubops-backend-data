@@ -786,8 +786,8 @@
 
   "travel_and_transportation": {
     "ApplicationsAIData": {
-      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
-      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "title": "Transforming Journeys with precision and Reliability ",
+      "headerDescription": "Empowering  travel and transportations digital transformation with intelligent mobility solutions, cloud based travel platforms and secure travel technology platforms so every journey feels seamless, reliable and unforgettable.",
       "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
       "imageAlt": "Team working on AI solutions",
       "videoText": "Watch Video to Discover More",
@@ -806,73 +806,38 @@
         }
       ],
       "bottomSection": {
-        "heading": "Navigating Industry Pressures with Agility",
-        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
-        "paragraph2": ""
+        "heading": "Operations Barriers Across Travel and Transport",
+        "paragraph1": "The travel and transportation industry faces rapidly changing demand, higher customer expectations, global disruptions and intense competition. Legacy transportation management systems and outdated systems make it harder to deliver smooth and personalized travel experiences platforms and connected travel experiences. ",
+        "paragraph2": "To overcome this, organizations must stay agile and adopt smart transportation technology, enterprise transportation technology and digital solutions for the travel industry that enable speed, flexibility and resilience."
       }
     },
     "ServicesSectionData": {
       "servicesTab": {
-        "heading": "Empowering the Future of Intelligent Mobility",
-        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "heading": "Intelligent Solution for Modern Mobility ",
+        "subheading": "Our travel technology solution brings intelligent mobility solutions to the travel and transportation ecosystem by enabling travel operations automation, transportations workflow automation and real time transportation data systems. From streamlining bookings to optimizing fleet and logistics operations, our cloud native transportation platforms support data driven transportation planning, operational efficiency and scalable travel technology infrastructure across the entire journey. ",
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
             "title": "Lorem Lorem",
-            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+            "description": "Streamlining travel booking automation systems, route planning and daily operations to reduce delays, improve intelligent logistics and route optimization."
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
             "title": "Lorem lorem",
-            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+            "description": "Deliver personalized travel experience platforms through mobile friendly cloud based travel platforms for consistent journeys."
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
             "title": "Lorem lorem",
-            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+            "description": "Leveraging AI driven travel analytics, predictive analytics for transportations and real time insights to enable faster decisions and improve resource planning."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
             "title": "Lorem lorem",
-            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+            "description": "Replacing legacy systems modernization for travel  with cloud migration for transportations companies and future ready transportation systems."
           }
         ]
       }
-    },
-    "InnovationSectionData": {
-      "heading": "Compliance and Security",
-      "cards": [
-        {
-          "id": "01",
-          "title": "Empowering Secure Connected Mobility",
-          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
-        },
-        {
-          "id": "02",
-          "title": "Automotive Cybersecurity",
-          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
-        },
-        {
-          "id": "03",
-          "title": "Cybersecurity and Software Updates",
-          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
-        },
-        {
-          "id": "04",
-          "title": "Functional Safety",
-          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
-        },
-        {
-          "id": "05",
-          "title": "Environmental and Emission",
-          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
-        }
-      ]
-    },
-    "StepinInnovationData": {
-      "title": "Expert consultation",
-      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
-      "talk": "Let's talk"
     },
     "successStoriesSectionData": {
       "labelPrefix": "Succ",
@@ -883,19 +848,19 @@
         {
           "id": 1,
           "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading EV manufacturer collaborate with us to deploy a secure, cloud native EV mobility infrastructure that supports connected vehicle platforms real time telematics and accelerating OTA software updates in alignment with SUMS requirements.",
+          "title": "A leading travel agency accelerated travel operations automation by integrating our AI powered travel personalization and travel booking automation systems. Automated confirmation, real time updates and smart itinerary handling improved operational speed and improved customer satisfaction.",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
           "client": "Platform Migration",
-          "title": "An e-commerce company migrated its platform to AWS cloud with support from our cloud migration experts, improving speed, scalability, and reliability during peak traffic.",
+          "title": "A tourism operator deployed personalized travel experience platforms using our AI powered travel personalization. This increases repeat booking and creates more meaningful memorable experiences for every customers throughout their journey.",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
           "client": "App Solution",
-          "title": "A retail chain developed a React Native mobile app with us, increasing customer engagement and online sales through custom software development and secure backend engineering.",
+          "title": "A transportation company migrate to our cloud native transportations platforms to unified routes, schedules and fleet data, This digital transformation in travel and tourism enables real time transportations data systems and improved coordination across operations.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
         },
         {
@@ -905,13 +870,56 @@
           "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
         }
       ]
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Payment Security ",
+          "description": "Following PCI-DSS compliant payment processing ensure safe and secure transactions for travel booking automation systems using encrypted gateways and fraud detection tools keep every payment protected. "
+        },
+        {
+          "id": "02",
+          "title": "Network Security ",
+          "description": "Implementing strict network segmentation, API rate limiting and encrypted communication channels to protect enterprise transportations technology from unauthorized access."
+        },
+        {
+          "id": "03",
+          "title": "Backup and Recovery",
+          "description": "Maintaining secure, regulatory tested data backups and following ISO 22301 Business continuity standards ensure ou3r operations stay resilient for rapid recovery during outages and protecting critical data."
+        },
+        {
+          "id": "04",
+          "title": "Secure Logging ",
+          "description": "Maintaining detail, tamper proof logs for all critical activities, following ISO 27001 and SOC 2 guidelines ensuring full visibility, incident investigation and transparent reporting. "
+        }
+      ]
+    },
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Intelligent Architecture for Modern solutions ",
+      "description": "Our approach is designed on a modern, scalable architecture with a secure cloud first design. We use API driven connectivity for smooth system integration and security at every layer of standards. With data driven insights, automation and continuous optimization, our system remain reliable, fast and ready to grow.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
     }
   },
 
   "utilities": {
     "ApplicationsAIData": {
-      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
-      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "title": "Empowering Utilities with connected, Real Time Intelligence ",
+      "headerDescription": "Bring Data, workflows and field operations together into one connected system, helping utilities optimize performance and customer experience. ",
       "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
       "imageAlt": "Team working on AI solutions",
       "videoText": "Watch Video to Discover More",
@@ -930,73 +938,38 @@
         }
       ],
       "bottomSection": {
-        "heading": "Navigating Industry Pressures with Agility",
-        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "heading": "Evolving challenges of Utilities ",
+        "paragraph1": "Utility industry struggle with legacy infrastructure, inefficient use of personnel, energy inefficiencies and poor data gathering practices.Disjointed communication and limited real time visibility create delays and the shift to renewable also make it more harder to operate efficiently and respond quickly to issues.",
         "paragraph2": ""
       }
     },
     "ServicesSectionData": {
       "servicesTab": {
-        "heading": "Empowering the Future of Intelligent Mobility",
-        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "heading": "Integrated solution for Utility Transformation ",
+        "subheading": "Our solution help utilities to modernize operations with real time visibility, intelligent asset management and automated field work. Streamlining metering, centralized data for easy compliance and enable communication across teams. With AI driven forecasting renewable integration, utilities can optimize energy use and maintain reliable and efficient service.",
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
             "title": "Lorem Lorem",
-            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+            "description": "Connect legacy utilities system with modern platforms, ensuring data flows smooth across operations and reduce disruptions. "
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
             "title": "Lorem lorem",
-            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+            "description": "Help in moving critical applications to secure and scalable cloud environments improving accessibility and disaster recovery."
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
             "title": "Lorem lorem",
-            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+            "description": "Track asset performance, predict failures and automate maintenance planning to extend life of critical infrastructure."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
             "title": "Lorem lorem",
-            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+            "description": "Support utilities in managing variable renewable energy inputs, balancing supply and demand, and maintaining grid stability."
           }
         ]
       }
-    },
-    "InnovationSectionData": {
-      "heading": "Compliance and Security",
-      "cards": [
-        {
-          "id": "01",
-          "title": "Empowering Secure Connected Mobility",
-          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
-        },
-        {
-          "id": "02",
-          "title": "Automotive Cybersecurity",
-          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
-        },
-        {
-          "id": "03",
-          "title": "Cybersecurity and Software Updates",
-          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
-        },
-        {
-          "id": "04",
-          "title": "Functional Safety",
-          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
-        },
-        {
-          "id": "05",
-          "title": "Environmental and Emission",
-          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
-        }
-      ]
-    },
-    "StepinInnovationData": {
-      "title": "Expert consultation",
-      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
-      "talk": "Let's talk"
     },
     "successStoriesSectionData": {
       "labelPrefix": "Succ",
@@ -1007,35 +980,77 @@
         {
           "id": 1,
           "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading EV manufacturer collaborate with us to deploy a secure, cloud native EV mobility infrastructure that supports connected vehicle platforms real time telematics and accelerating OTA software updates in alignment with SUMS requirements.",
+          "title": "A state water utility replaces manual field processes with mobile automation. Field crews received optimized task assignments, reducing service delays and improving overall response times with clear visibility into daily operations.",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
           "client": "Platform Migration",
-          "title": "An e-commerce company migrated its platform to AWS cloud with support from our cloud migration experts, improving speed, scalability, and reliability during peak traffic.",
+          "title": "A company shifts critical applications to a secure cloud platform. This helps in improving system performance, increasing data accessibility and strengthening disaster recovery capabilities for smoother and uninterrupted operations.",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
           "client": "App Solution",
-          "title": "A retail chain developed a React Native mobile app with us, increasing customer engagement and online sales through custom software development and secure backend engineering.",
+          "title": "A renewable energy provider adopted AI-based forecasting to manage fluctuating solar and wind generation. With real time predictions and automated load balancing, the company reduce supply variability, improve grid stability and deliver consistent clean energy.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
-        },
-        {
-          "id": 4,
-          "client": "Logistics Transformation",
-          "title": "A leading logistics firm transformed its supply chain by building a smart coordination platform that improved route planning and dispatch accuracy.",
-          "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
         }
       ]
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Data Encryption ",
+          "description": "Secure customer and operational data with strong encryption to prevent unauthorized access and ensure privacy, safeguarding sensitive information as it move across system."
+        },
+        {
+          "id": "02",
+          "title": "Power Distribution ",
+          "description": "DISCOM standards define safety rules, energy accounting requirements and operational guidelines to help power distributions companies reduce loss and maintain reliability."
+        },
+        {
+          "id": "03",
+          "title": "Environmental Regulations ",
+          "description": "Following key standards like ISO 14001, ISO 5001 and EPA regulations for ensuring worker health and safety, which help to maintain safe operations and reduce environmental risks."
+        },
+        {
+          "id": "04",
+          "title": "Power Security ",
+          "description": "NERC CIP set strict cybersecurity standards to protect critical electric infrastructure from cyber threats. Ensuring secure system and  a  resilient power grid. "
+        },
+        {
+          "id": "05",
+          "title": "Grid Oversight",
+          "description": "FERC guide utilities in maintaining secure, reliable and well regulated power operations across transmission and distribution networks that strengthen grid stability and protect customers."
+        }
+      ]
+    },
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Technology for Reliability and Scalability ",
+      "description": "We designed a modern, scalable technology built around secure cloud systems, data driven intelligence, and seamless integration with existing utility infrastructure. By combining AI insights and real time monitoring, we help to improve reliability, reduce manual efforts and operate with great utility.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
     }
   },
 
   "retail": {
     "ApplicationsAIData": {
-      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
-      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "title": "Where Retail Meets Intelligent Innovation ",
+      "headerDescription": "Intelligent solutions streamline operations, improve visibility and help retailers to deliver faster and more personalized experiences. ",
       "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
       "imageAlt": "Team working on AI solutions",
       "videoText": "Watch Video to Discover More",
@@ -1282,8 +1297,8 @@
 
   "logistics": {
     "ApplicationsAIData": {
-      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
-      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "title": "Where Modern Logistics Meets Digital Intelligence ",
+      "headerDescription": "Advanced technologies streamline supply chain,optimize fleet and warehouse operations and seamless decision making across logistics.",
       "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
       "imageAlt": "Team working on AI solutions",
       "videoText": "Watch Video to Discover More",
@@ -1302,15 +1317,15 @@
         }
       ],
       "bottomSection": {
-        "heading": "Navigating Industry Pressures with Agility",
-        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "heading": "Operational Barriers in Logistics Growth",
+        "paragraph1": "The logistics industry faces rising transportation costs, increasing customer expectations and growing pressure for faster and accurate deliveries. Fragmented systems limited real time visibility and manual process make it more difficult to optimize routes,track shipment and stay competitive.",
         "paragraph2": ""
       }
     },
     "ServicesSectionData": {
       "servicesTab": {
-        "heading": "Empowering the Future of Intelligent Mobility",
-        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "heading": "Integrated solution for Modern Logistics",
+        "subheading": "Our logistics solutions help enhance shipment visibility, streamline warehouse operations and support intelligent fleet management.With real time tracking, automated workflows and AI driven intelligence, logistics team can reduce delays, reduce errors and deliver faster and more reliable customer experiences. ",
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
@@ -1340,28 +1355,33 @@
       "cards": [
         {
           "id": "01",
-          "title": "Empowering Secure Connected Mobility",
-          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+          "title": "Advanced Compliance and Security Standards",
+          "description": "Our solution ensure adherence to logistics safety standards, regulatory requirements and data governance policies. With secure, encrypted system and continuous monitoring, operators can maintain operational integrity while protecting shipment and customer data."
         },
         {
           "id": "02",
-          "title": "Automotive Cybersecurity",
-          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+          "title": "Operational Safety ",
+          "description": "Adherence to FMCSA,DOT and global supply chain regulations ensure structured safety program enabling early risk detection and prevention resulting in safe and more reliable operations."
         },
         {
           "id": "03",
-          "title": "Cybersecurity and Software Updates",
-          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+          "title": "Documentation Management ",
+          "description": "Maintain digital records of shipment documents, vehicle certifications, driver qualifications and audit trails to support regulatory checks ensuring faster verification and stronger compliance."
         },
         {
           "id": "04",
-          "title": "Functional Safety",
-          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+          "title": "Operational Management",
+          "description": "Supports proactive identification of hazards and ensure timely mitigation aligned with industry standards helping maintain safe, reliable and disruption free logistics operations."
         },
         {
           "id": "05",
-          "title": "Environmental and Emission",
-          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+          "title": "Environmental Compliance",
+          "description": "Adheres to global framework by enabling accurate emissions tracking, fuel efficiency monitoring and greener logistics practice to reduce carbon impact."
+        },
+        {
+          "id": "06",
+          "title": "Identification Protection",
+          "description": "Role based permissions, biometric checks and driver verification prevent unauthorized access to warehouses, systems and fleet data strengthening security and reducing operational risks."
         }
       ]
     },
@@ -1369,6 +1389,19 @@
       "title": "Expert consultation",
       "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
       "talk": "Let's talk"
+    },
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Operational Intelligence Model ",
+      "description": "Our approach focus on real time data, automation and AI driven insights to streamline logistics operations. Secure and connected systems enable faster decisions, improved efficiency and stronger safety and compliance across fleets, warehouses and distribution. This digital foundation supports smoother operations and long term resilience.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
     },
     "successStoriesSectionData": {
       "labelPrefix": "Succ",
