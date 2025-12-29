@@ -1,0 +1,1054 @@
+{
+  "automotive": {
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Empowering the Future of Mobility",
+      "description": "hubops delivers an integrated, modern technology stack that enables automotive digital engineering, AI and automation in automotive, IoT for connected mobility, and cloud-native mobility architectures. We modernize operations end-to-end through predictive analytics, secure data platforms, and smart manufacturing automation to improve efficiency across the value chain.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
+    },
+
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility <br/>Through Transformation",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "AI Driven Manufacturing",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Intelligent Mobility",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "EV Cloud Platform",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Operation Excellence",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions by applying structured safety processes, hazard analysis and continuous validation across design, development and deployment stages. "
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards enabling efficient emissions monitoring, regulatory alignment and adoption of cleaner and sustainable mobility practice across vehicle development."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "banking_and_financial": {
+    "ApplicationsAIData": {
+      "title": "Pioneering the Next Era of Digital Finance",
+      "headerDescription": "Accelerate banks and financial institutions with banking technology solutions, enterprise fintech solutions and intelligent banking platforms designed to deliver secure financial technology systems and scalable growth.",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating an Era of Financial Transformation",
+        "paragraph1": "Banking and financial sector is facing growing pressure from strict regulation, cybersecurity risks and rising customer expectations. Legacy banking systems and outdated infrastructure slow down digital banking transformation services while fintech innovation reshaped competition.",
+        "paragraph2": "To remain competitive, institutions must focus on banking software modernization, cloud migration for banks, regulatory compliance and delivering secure and personalized digital banking experiences in a increasingly dynamic financial landscape."
+      }
+    },
+
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Comprehensive Solutions for a Smarter Financial Future",
+        "subheading": "Our enterprise financial services solutions combine technology, intelligence and innovation to help financial institutions transform securely and efficiently. From legacy banking system modernization to cloud native banking platforms, we provide scalable solutions that drive agility, compliance and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Digital Transformation",
+            "description": "Accelerate digital transformation through banking software modernization, secure banking infrastructure solutions and financial cloud solutions."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Financial Security",
+            "description": "Strengthen cybersecurity for financial institutions and regulatory technology (RegTech) solutions with advanced, trust driven security frameworks."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "AI powered Banking",
+            "description": "Leverage AI driven banking solutions, data analytics for financial institutions and predictive analytics in finance."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Automated Operations",
+            "description": "Improve efficiency through intelligent automation in banking, banking workflow automation and scalable digital architectures."
+          }
+        ]
+      }
+    },
+
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Ensuring Integrity in Every Transaction",
+          "description": "In banking and financial sector security and compliance are the foundation of customer trust. With increasing regulatory demands and evolving cyber threats, organizations must adopt secure financial technology systems to protect data, ensure privacy and maintain regulatory alignment without compromising innovation."
+        },
+        {
+          "id": "02",
+          "title": "Regulatory compliance",
+          "description": "Align with the evolving global regulations like AML, KYC, GDPR and PCI-DSS through automated and auditable RegTech solutions to ensure transparency, reduce risk and strengthen organizational accountability. "
+        },
+        {
+          "id": "03",
+          "title": "Data Protection and privacy",
+          "description": "Safeguard sensitive customer and transactional details with advanced encryption, financial data management, access control and real time monitoring systems design to maintain integrity and ensure privacy across every digital channel. "
+        },
+        {
+          "id": "04",
+          "title": "Cybersecurity and Threat Intelligence",
+          "description": "Detect, prevent and respond to emerging cyber threats through AI-powered for financial institutions continuous vulnerability assessments, and proactive defence mechanisms and ensure uninterrupted trust and business continuity."
+        },
+        {
+          "id": "05",
+          "title": "Identity and Access Management (IAM)",
+          "description": "Implement robust IAM frameworks to ensure that only authorized users can access critical systems and data. Leverage multi-factor authentication and continuous verification to enhance security and maintain compliance integrity."
+        }
+      ]
+    },
+
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Building a Secure and Compliant Digital Foundation",
+      "description": "Our technology approach focuses on embedding security, compliance and intelligent automation into every layer of the enterprise financial architecture. By leveraging automation, analytics, cloud-native banking platforms and intelligent monitoring, we help institutions proactively detect threats, enforce policies, and maintain regulatory alignment without disrupting business agility.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
+    },
+
+    "StepinInnovationData": {
+      "title": "Empower Your Journey with Expert Insight",
+      "description": "Schedule a consultation with our Financial service specialists ",
+      "talk": "Let's talk"
+    }
+  },
+
+  "chemical_oil_and_gas": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms while strengthening resilience and regulatory readiness."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions by applying structured safety processes, hazard analysis and continuous validation across design, development and deployment stages."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "government": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "healthcare": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "insurance": {
+    "ApplicationsAIData": {
+      "title": "Empowering insurance from policy to possibility ",
+      "headerDescription": "Accelerate insurance digital transformation solutions through intelligent insurance platforms, AI driven insurance systems, predictive analytics and cloud based insurance solutions.",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Imperative For Digital Transformation in Insurance ",
+        "paragraph1": "The insurance industry is navigating a rapidly changing landscape, driven by evolving customer expectations, regulatory complexity and digital disruption. Legacy insurance systems and outdated infrastructure limit agility and innovation making it difficult to deliver personalized digital customer experience for insurers.",
+        "paragraph2": "Insurers must adopt digital insurance modernization focus on legacy insurance systems modernization, strengthen secure insurance infrastructure and invest in enterprise insurance technology.Insurance digital transformation is no longer optional it is a business necessity."
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Transforming Insurance with Intelligence and Agility",
+        "subheading": "Our intelligent insurance platforms combine insurance automation solutions, real time insurance monitoring, predictive analytics in insurance and cloud native insurance platforms to drive agility, efficiency and smarter decision making at every stage of the insurance journey.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "AI Driven insurance systems power intelligent chatbots and virtual assistant enabling 24/7 customer support and enhanced customer experience for insurers."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Insurance data analytics solutions deliver predictive risk analytics for insurers, enabling proactive risk management and smarter underwriting decisions."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Blockchain for insurance transparency ensures secure, auditable processes across the entire insurance value chain."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Cloud based insurance solutions and cloud migration for insurance companies improves accessibility, scalability, and operational agility with secure cloud based infrastructure."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Data Privacy and Protection ",
+          "description": "Comply with global data protection frameworks such as GDPR, DPDP Act, and CCPA through automated, secure, and auditable processes to enhance digital trust in insurance and data driven insurance decision making."
+        },
+        {
+          "id": "02",
+          "title": " Third-Party Compliance",
+          "description": "Ensure cloud and vendor security with frameworks like SOC 2 and CSA STAR, maintaining end-to-end data governance, compliance visibility, and secure integration across cloud insurance platforms and third party systems."
+        },
+        {
+          "id": "03",
+          "title": "Operational Governance",
+          "description": "Implement robust Business Continuity Planning (BCP) and Disaster Recovery (DR) frameworks to ensure insurance risk management systems, minimize downtime, and uphold regulatory and customer commitments."
+        },
+        {
+          "id": "04",
+          "title": "Financial Compliance",
+          "description": " Align with evolving financial regulations like AML, KYC, and IRDAI through intelligent monitoring and verification systems that prevent fraud, ensure identity validation, and strengthen enterprise insurance technology controls."
+        }
+      ]
+    },
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Empowering Insurance with Next-Gen Technology",
+      "description": "Our next generations insurance ecosystem leverage AI and machine learning, automation, cloud native insurance platforms and blockchain to drive agility, transparency, and efficiency in insurance. By leveraging data-driven insights and advanced insurance workflow automation, we help insurers modernize operations, enhance customer experiences, and ensure compliance in a rapidly evolving digital landscape..",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
+    },
+    "StepinInnovationData": {
+      "title": "Empower Your Journey with Expert Insight",
+      "description": "Schedule a consultation with our Insurance specialists ",
+      "talk": "Let's talk"
+    }
+  },
+
+  "travel_and_transportation": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "utilities": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "retail": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "manufacturing": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  },
+
+  "logistics": {
+    "ApplicationsAIData": {
+      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
+      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Navigating Industry Pressures with Agility",
+        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "paragraph2": ""
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Empowering the Future of Intelligent Mobility",
+        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Lorem Lorem",
+            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Lorem lorem",
+            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Lorem lorem",
+            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Lorem lorem",
+            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Empowering Secure Connected Mobility",
+          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+        },
+        {
+          "id": "02",
+          "title": "Automotive Cybersecurity",
+          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+        },
+        {
+          "id": "03",
+          "title": "Cybersecurity and Software Updates",
+          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+        },
+        {
+          "id": "04",
+          "title": "Functional Safety",
+          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+        },
+        {
+          "id": "05",
+          "title": "Environmental and Emission",
+          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    }
+  }
+}
