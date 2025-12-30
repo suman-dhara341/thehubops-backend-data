@@ -1075,35 +1075,35 @@
         }
       ],
       "bottomSection": {
-        "heading": "Navigating Industry Pressures with Agility",
-        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "heading": "Operational Barriers in Modern Retail",
+        "paragraph1": "Retailers today face rising operational costs, inconsistent inventory visibility and increasing demands for highly personalized customer experiences. Fragmented systems and manual processes are making it hard to adapt, scale and remain competitive in a rapidly evolving retail environments.",
         "paragraph2": ""
       }
     },
     "ServicesSectionData": {
       "servicesTab": {
-        "heading": "Empowering the Future of Intelligent Mobility",
-        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "heading": "Modernizing Retail Operations",
+        "subheading": "Our solution help retailers to modernize operations with real time inventory visibility, intelligent product management and automated store processes. streamlining orders management and centralizing data for better decision. AI driven demand forecasting retailers can optimize stock, improve customer experiences and deliver reliable and efficient service.",
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
-            "title": "Lorem Lorem",
-            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+            "title": "AI driven decision",
+            "description": "AI and data driven insights help organizations to forecast demand, reduce risks and make smarter and faster decisions."
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
-            "title": "Lorem lorem",
-            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+            "title": "Seamless Integration",
+            "description": "Seamless integration and scalability to ensure system work together smoothly and grow with the evolving business needs. "
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
-            "title": "Lorem lorem",
-            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+            "title": "End to end modernization",
+            "description": "End to end modernization with tools and workflows designed to improve efficiency, accuracy and operational visibility."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
-            "title": "Lorem lorem",
-            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+            "title": "Inventory Operations ",
+            "description": "Automate stock operations including task management, audit and workforce to improve efficiency and reduce manual efforts."
           }
         ]
       }
@@ -1113,34 +1113,34 @@
       "cards": [
         {
           "id": "01",
-          "title": "Empowering Secure Connected Mobility",
-          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+          "title": "Secure Payment",
+          "description": "Enable retailers to meet global payment standards by implementing encrypted, PCI DSS compliant payment systems that protect customer card data across online and in store transactions. "
         },
         {
           "id": "02",
-          "title": "Automotive Cybersecurity",
-          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+          "title": "Fraud Detection",
+          "description": "AI powered monitoring tools identify suspicious activities in real time reducing unauthorized transactions, coupon abuse, loyalty fraud and account takeovers."
         },
         {
           "id": "03",
-          "title": "Cybersecurity and Software Updates",
-          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+          "title": "Digital Accessibility ",
+          "description": "Ensure retail website and apps are accessible to all users by following WCAG/ADA guidelines offering clear navigation, readable content and design features that support people visual."
         },
         {
           "id": "04",
-          "title": "Functional Safety",
-          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+          "title": "Privacy Safeguard",
+          "description": "Following SO2 compliance ensure that retail systems handle customer data securely by meeting standards for security, availability, and privacy protection from unauthorized access. "
         },
         {
           "id": "05",
-          "title": "Environmental and Emission",
-          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+          "title": "E-waste Compliance",
+          "description": "Follows proper disposal and recycling regulations ensuring safe handling of e-waste, responsible recycling processes and compliance with environmental standards to reduce harmful environment impact."
         }
       ]
     },
     "StepinInnovationData": {
-      "title": "Expert consultation",
-      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "title": "Empower Your Journey with Expert Insight",
+      "description": "Schedule a consultation with our Retail specialists",
       "talk": "Let's talk"
     },
     "successStoriesSectionData": {
@@ -1151,29 +1151,42 @@
       "stories": [
         {
           "id": 1,
-          "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading EV manufacturer collaborate with us to deploy a secure, cloud native EV mobility infrastructure that supports connected vehicle platforms real time telematics and accelerating OTA software updates in alignment with SUMS requirements.",
+          "client": "Inventory Modernization ",
+          "title": "A leading retailer unified its inventory into a unified real time system, eliminating stock confusion and enabling faster replenishment.This improved visibility reduced stock outs and made order processing significantly quicker.",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
-          "client": "Platform Migration",
-          "title": "An e-commerce company migrated its platform to AWS cloud with support from our cloud migration experts, improving speed, scalability, and reliability during peak traffic.",
+          "client": "AI Chatbot Integration ",
+          "title": "A leading retailer improved its customer support by introducing an AI chatbot that instantly handle routine queries, speed up responses and support teams to focus on more complex issues. The chatbot also provider real time assistance enhancing customer experiences.",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
-          "client": "App Solution",
-          "title": "A retail chain developed a React Native mobile app with us, increasing customer engagement and online sales through custom software development and secure backend engineering.",
+          "client": "Data Visibility ",
+          "title": "A regional retail chain improves in store operations by adopting real time sales and inventory dashboards. This provide instant visibility, faster decision and help in maintaining consistent product availability across all outlets.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 4,
-          "client": "Logistics Transformation",
-          "title": "A leading logistics firm transformed its supply chain by building a smart coordination platform that improved route planning and dispatch accuracy.",
+          "client": "Retail Intelligence ",
+          "title": "We supported a retail brand in streamlining stock operations and decision-making through automation and data intelligence reducing manual effort, improving availability, and enabling faster, smarter store operations.",
           "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
         }
       ]
+    },
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Retail Technology Architecture",
+      "description": " Our technology combine cloud first architecture, secure APIs and AI driven automation to build fast, scalable and future ready retail systems. Real time data processing ensure instant visibility across sales, inventory and customer interactions delivering seamless experiences for both customer and store teams.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
     }
   },
 
