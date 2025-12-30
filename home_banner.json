@@ -1,0 +1,8 @@
+{
+  "isActive": true,
+  "title": "Special Offer",
+  "description": "Get 50% off on all consulting services this week.",
+  "imageUrl": "https://example.com/image.jpg",
+  "ctaText": "Get Started",
+  "ctaLink": "/contact"
+}
