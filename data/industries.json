@@ -818,22 +818,22 @@
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
-            "title": "Lorem Lorem",
+            "title": "Intelligent operations",
             "description": "Streamlining travel booking automation systems, route planning and daily operations to reduce delays, improve intelligent logistics and route optimization."
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
-            "title": "Lorem lorem",
+            "title": "Personalized journey",
             "description": "Deliver personalized travel experience platforms through mobile friendly cloud based travel platforms for consistent journeys."
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
-            "title": "Lorem lorem",
+            "title": "AI powered Intelligence",
             "description": "Leveraging AI driven travel analytics, predictive analytics for transportations and real time insights to enable faster decisions and improve resource planning."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
-            "title": "Lorem lorem",
+            "title": "Transportation Modernization",
             "description": "Replacing legacy systems modernization for travel  with cloud migration for transportations companies and future ready transportation systems."
           }
         ]
@@ -847,26 +847,26 @@
       "stories": [
         {
           "id": 1,
-          "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading travel agency accelerated travel operations automation by integrating our AI powered travel personalization and travel booking automation systems. Automated confirmation, real time updates and smart itinerary handling improved operational speed and improved customer satisfaction.",
+          "client": "Automated Booking",
+          "title": "A leading travel agency accelerated travel operations automation by integrating our AI powered travel personalization and travel booking automation systems. Automated confirmation, real time updates and smart itinerary handling improved operational speed and improved customer satisfaction. ",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
-          "client": "Platform Migration",
+          "client": "Personalized Experiences",
           "title": "A tourism operator deployed personalized travel experience platforms using our AI powered travel personalization. This increases repeat booking and creates more meaningful memorable experiences for every customers throughout their journey.",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
-          "client": "App Solution",
+          "client": "Cloud Operations",
           "title": "A transportation company migrate to our cloud native transportations platforms to unified routes, schedules and fleet data, This digital transformation in travel and tourism enables real time transportations data systems and improved coordination across operations.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 4,
-          "client": "Logistics Transformation",
-          "title": "A leading logistics firm transformed its supply chain by building a smart coordination platform that improved route planning and dispatch accuracy.",
+          "client": "Digital Travel Operations",
+          "title": "We helped a travel and transportation company streamline bookings, optimize routes, and modernize operations using AI and cloud platforms reducing delays and enabling smarter, more efficient journeys.",
           "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
         }
       ]
@@ -910,8 +910,8 @@
       }
     },
     "StepinInnovationData": {
-      "title": "Expert consultation",
-      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "title": "Empower Your Journey with Expert Insight",
+      "description": "Schedule a consultation with our Travel and Transportation specialists",
       "talk": "Let's talk"
     }
   },
