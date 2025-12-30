@@ -950,22 +950,22 @@
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
-            "title": "Lorem Lorem",
+            "title": "System Integration",
             "description": "Connect legacy utilities system with modern platforms, ensuring data flows smooth across operations and reduce disruptions. "
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
-            "title": "Lorem lorem",
+            "title": "Cloud Migration",
             "description": "Help in moving critical applications to secure and scalable cloud environments improving accessibility and disaster recovery."
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
-            "title": "Lorem lorem",
+            "title": "Assest Management",
             "description": "Track asset performance, predict failures and automate maintenance planning to extend life of critical infrastructure."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
-            "title": "Lorem lorem",
+            "title": "Energy Optimization",
             "description": "Support utilities in managing variable renewable energy inputs, balancing supply and demand, and maintaining grid stability."
           }
         ]
@@ -979,20 +979,26 @@
       "stories": [
         {
           "id": 1,
-          "client": "Building Scalable Cloud Foundation for Electric Mobility",
+          "client": "Field Automation",
           "title": "A state water utility replaces manual field processes with mobile automation. Field crews received optimized task assignments, reducing service delays and improving overall response times with clear visibility into daily operations.",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
-          "client": "Platform Migration",
+          "client": " Cloud Migration",
           "title": "A company shifts critical applications to a secure cloud platform. This helps in improving system performance, increasing data accessibility and strengthening disaster recovery capabilities for smoother and uninterrupted operations.",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
-          "client": "App Solution",
+          "client": "AI Driven Stability",
           "title": "A renewable energy provider adopted AI-based forecasting to manage fluctuating solar and wind generation. With real time predictions and automated load balancing, the company reduce supply variability, improve grid stability and deliver consistent clean energy.",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
+        },
+        {
+          "id": 4,
+          "client": "Operations Modernization",
+          "title": "We helped a utility provider streamline field operations and infrastructure management using automation and real-time insights reducing disruptions, improving response times, and enabling more reliable service delivery.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
         }
       ]
