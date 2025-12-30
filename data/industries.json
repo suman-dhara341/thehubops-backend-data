@@ -1,5 +1,142 @@
 {
   "automotive": {
+    "ApplicationsAIData": {
+      "title": "Sustainable Growth with intelligent Transformation",
+      "headerDescription": "Drive operational excellence and sustainable chemical operations with AI powered industrial transformation, intelligent plant operations, predictive maintenance for chemical plants and smarter decision making across the chemical and gas industry.",
+      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
+      "imageAlt": "Team working on AI solutions",
+      "videoText": "Watch Video to Discover More",
+      "listItems": [
+        {
+          "title": "Biodiversity Preservation",
+          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
+        },
+        {
+          "title": "Ethical Responsibility",
+          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
+        },
+        {
+          "title": "Climate Change Mitigation",
+          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
+        }
+      ],
+      "bottomSection": {
+        "heading": "Overcoming Challenges in a Dynamic Industry",
+        "paragraph1": "The chemical and gas industry faces rising energy costs, strict environmental regulations and global supply chain disruptions. Legacy system modernization for chemical plants, fragmented data and limited industrial data integration platforms reduce efficiency and innovation making it harder to ensure safety, sustainability and profitability.",
+        "paragraph2": "To stay competitive, companies must adopt chemical industry technology solutions, oil and gas digital solutions and data driven decisions making in oil and gas that enable resilient operations in the energy sector, safety, sustainability and profitability."
+      }
+    },
+    "ServicesSectionData": {
+      "servicesTab": {
+        "heading": "Innovative Solutions Driving Efficiency and Sustainability",
+        "subheading": "Empower your chemical and gas digital transformation with intelligent operations for process industries designed for safety, efficiency and sustainability. Our cloud solutions for the chemical and gas industry combine AI, industrial automation and analytics to modernized production, streamline supply chains operations and enhance decision making.",
+        "items": [
+          {
+            "icon": "/services/applications_and_ai/AI Icon.png",
+            "title": "Plant Operation",
+            "description": "Real time plant monitoring solutions, predictive maintenance using AI and IoT and process optimization for smarter plant operations."
+          },
+          {
+            "icon": "/services/applications_and_ai/Outline.webp",
+            "title": "Unified Platforms",
+            "description": "Unified data platforms, cloud native platforms for chemical enterprises and industrial workflow automation enable agility and innovation."
+          },
+          {
+            "icon": "/services/applications_and_ai/AI and automation.webp",
+            "title": "Workforce safety",
+            "description": "Intelligent dashboards, mobile workforce solutions for plant safety, and connected tools for a safer and more productive workforce."
+          },
+          {
+            "icon": "/services/applications_and_ai/Group 35783.webp",
+            "title": "Resilient supply chains",
+            "description": "Supply chain visibility for chemical industry, connected supply chain for energy sector, logistics integration and demand forecasting for resilient operations."
+          }
+        ]
+      }
+    },
+    "InnovationSectionData": {
+      "heading": "Compliance and Security",
+      "cards": [
+        {
+          "id": "01",
+          "title": "Intelligent Security for a Connected Chemical World",
+          "description": "In an industry governed by strict regulations environmental compliance technology, cybersecurity, and operational safety  are non-negotiable. Chemical and gas enterprises handle sensitive data, critical operations, and hazardous processes that demand uncompromising protection."
+        },
+        {
+          "id": "02",
+          "title": "Environmental and Safety ",
+          "description": "The industry follows OSHA, EPA, REACH, GHS, ISO 14001, and ISO 45001 standards to ensure safe operations, environmental protection, and compliant chemical operations."
+        },
+        {
+          "id": "03",
+          "title": "Data Security",
+          "description": "Global frameworks like ISO 27001, NIST, GDPR, CCPA, and SOC 2 safeguard sensitive data and  ensure privacy across cloud native platforms for chemical enterprises."
+        },
+        {
+          "id": "04",
+          "title": "Quality Standards",
+          "description": "Compliance with IEC 61511, API, ISO 9001, and Responsible Care ensures intelligent operations, product quality, operational reliability, and safe chemical handling."
+        },
+        {
+          "id": "05",
+          "title": "Global & Industry-Specific Frameworks",
+          "description": "Standards such as Seveso III, CFATS, BIS, and UNEP Guidelines help chemical and gas enterprises maintain global safety, security, and environmental integrity for future ready industrial ecosystems."
+        }
+      ]
+    },
+    "StepinInnovationData": {
+      "title": "Expert consultation",
+      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "talk": "Let's talk"
+    },
+    "successStoriesSectionData": {
+      "labelPrefix": "Succ",
+      "labelSuffix": "ess Stories",
+      "heading": "Engineering Impact from Every Innovation",
+      "description": "We work with organizations across industries to simplify IT, reduce risks, and create meaningful digital transformation journeys that truly help.",
+      "stories": [
+        {
+          "id": 1,
+          "client": "Predictive Maintenance ",
+          "title": "A global chemical producer implement AI driven asset reliability management and predictive maintenance services using industrial IoT solutions for oil and gas. This enable fault detection, reduced unplanned downtime and improved asset reliability across intelligent plant operations.",
+          "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
+        },
+        {
+          "id": 2,
+          "client": "Energy Optimizations ",
+          "title": "A leading gas manufacturer adopted smart energy management systems and energy optimization and emission reduction technologies. Within months they are achieving reduction in energy waste while supporting sustainable industrial technology and environmental compliance.",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
+        },
+        {
+          "id": 3,
+          "client": "Cloud Transformation ",
+          "title": "A multinational chemical enterprises executed legacy system modernization for chemical plants through cloud solutions for process industries. This improved uptime and accelerate product development and enhance cross team efficiency.",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
+        },
+        {
+          "id": 4,
+          "client": "Industrial Transformation",
+          "title": "We helped a chemical and gas company modernize plant operations with real-time monitoring, AI-driven predictive maintenance, and unified data platforms reducing downtime, improving safety, and increasing energy efficiency.",
+          "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
+        }
+      ]
+    },
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Driving Innovation Through Intelligent Technology",
+      "description": "We leverage industrial automation and analytics, digital twins for chemical operations, industrial IoT, AI and cloud to deliver intelligent plant operations. Our integrated digital ecosystem enables real-time monitoring, predictive insights, smart manufacturing for chemical industry, and scalable oil and gas digital solutions for sustainable growth.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
+    }
+  },
+
+  "banking_and_financial": {
     "ConsultSectionData": {
       "tagline": {
         "fullText": "Technology Approach",
@@ -103,147 +240,6 @@
     "StepinInnovationData": {
       "title": "Expert consultation",
       "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
-      "talk": "Let's talk"
-    },
-    "successStoriesSectionData": {
-      "labelPrefix": "Succ",
-      "labelSuffix": "ess Stories",
-      "heading": "Engineering Impact from Every Innovation",
-      "description": "We work with organizations across industries to simplify IT, reduce risks, and create meaningful digital transformation journeys that truly help.",
-      "stories": [
-        {
-          "id": 1,
-          "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading EV manufacturer collaborate with us to deploy a secure, cloud native EV mobility infrastructure that supports connected vehicle platforms real time telematics and accelerating OTA software updates in alignment with SUMS requirements.",
-          "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
-        },
-        {
-          "id": 2,
-          "client": "Platform Migration",
-          "title": "An e-commerce company migrated its platform to AWS cloud with support from our cloud migration experts, improving speed, scalability, and reliability during peak traffic.",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
-        },
-        {
-          "id": 3,
-          "client": "App Solution",
-          "title": "A retail chain developed a React Native mobile app with us, increasing customer engagement and online sales through custom software development and secure backend engineering.",
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
-        },
-        {
-          "id": 4,
-          "client": "Logistics Transformation",
-          "title": "A leading logistics firm transformed its supply chain by building a smart coordination platform that improved route planning and dispatch accuracy.",
-          "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
-        }
-      ]
-    }
-  },
-
-  "banking_and_financial": {
-    "ApplicationsAIData": {
-      "title": "Pioneering the Next Era of Digital Finance",
-      "headerDescription": "Accelerate banks and financial institutions with banking technology solutions, enterprise fintech solutions and intelligent banking platforms designed to deliver secure financial technology systems and scalable growth.",
-      "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
-      "imageAlt": "Team working on AI solutions",
-      "videoText": "Watch Video to Discover More",
-      "listItems": [
-        {
-          "title": "Biodiversity Preservation",
-          "description": "Animals and ecosystems contribute to Earth's biodiversity, which is vital for the health and stability of our planet."
-        },
-        {
-          "title": "Ethical Responsibility",
-          "description": "Animals have intrinsic value and deserve to live without unnecessary suffering."
-        },
-        {
-          "title": "Climate Change Mitigation",
-          "description": "Healthy ecosystems play a role in every part of nature especially mitigating climate change."
-        }
-      ],
-      "bottomSection": {
-        "heading": "Navigating an Era of Financial Transformation",
-        "paragraph1": "Banking and financial sector is facing growing pressure from strict regulation, cybersecurity risks and rising customer expectations. Legacy banking systems and outdated infrastructure slow down digital banking transformation services while fintech innovation reshaped competition.",
-        "paragraph2": "To remain competitive, institutions must focus on banking software modernization, cloud migration for banks, regulatory compliance and delivering secure and personalized digital banking experiences in a increasingly dynamic financial landscape."
-      }
-    },
-
-    "ServicesSectionData": {
-      "servicesTab": {
-        "heading": "Comprehensive Solutions for a Smarter Financial Future",
-        "subheading": "Our enterprise financial services solutions combine technology, intelligence and innovation to help financial institutions transform securely and efficiently. From legacy banking system modernization to cloud native banking platforms, we provide scalable solutions that drive agility, compliance and growth.",
-        "items": [
-          {
-            "icon": "/services/applications_and_ai/AI Icon.png",
-            "title": "Digital Transformation",
-            "description": "Accelerate digital transformation through banking software modernization, secure banking infrastructure solutions and financial cloud solutions."
-          },
-          {
-            "icon": "/services/applications_and_ai/Outline.webp",
-            "title": "Financial Security",
-            "description": "Strengthen cybersecurity for financial institutions and regulatory technology (RegTech) solutions with advanced, trust driven security frameworks."
-          },
-          {
-            "icon": "/services/applications_and_ai/AI and automation.webp",
-            "title": "AI powered Banking",
-            "description": "Leverage AI driven banking solutions, data analytics for financial institutions and predictive analytics in finance."
-          },
-          {
-            "icon": "/services/applications_and_ai/Group 35783.webp",
-            "title": "Automated Operations",
-            "description": "Improve efficiency through intelligent automation in banking, banking workflow automation and scalable digital architectures."
-          }
-        ]
-      }
-    },
-
-    "InnovationSectionData": {
-      "heading": "Compliance and Security",
-      "cards": [
-        {
-          "id": "01",
-          "title": "Ensuring Integrity in Every Transaction",
-          "description": "In banking and financial sector security and compliance are the foundation of customer trust. With increasing regulatory demands and evolving cyber threats, organizations must adopt secure financial technology systems to protect data, ensure privacy and maintain regulatory alignment without compromising innovation."
-        },
-        {
-          "id": "02",
-          "title": "Regulatory compliance",
-          "description": "Align with the evolving global regulations like AML, KYC, GDPR and PCI-DSS through automated and auditable RegTech solutions to ensure transparency, reduce risk and strengthen organizational accountability. "
-        },
-        {
-          "id": "03",
-          "title": "Data Protection and privacy",
-          "description": "Safeguard sensitive customer and transactional details with advanced encryption, financial data management, access control and real time monitoring systems design to maintain integrity and ensure privacy across every digital channel. "
-        },
-        {
-          "id": "04",
-          "title": "Cybersecurity and Threat Intelligence",
-          "description": "Detect, prevent and respond to emerging cyber threats through AI-powered for financial institutions continuous vulnerability assessments, and proactive defence mechanisms and ensure uninterrupted trust and business continuity."
-        },
-        {
-          "id": "05",
-          "title": "Identity and Access Management (IAM)",
-          "description": "Implement robust IAM frameworks to ensure that only authorized users can access critical systems and data. Leverage multi-factor authentication and continuous verification to enhance security and maintain compliance integrity."
-        }
-      ]
-    },
-
-    "ConsultSectionData": {
-      "tagline": {
-        "fullText": "Technology Approach",
-        "highlight": "Tech"
-      },
-      "heading": "Building a Secure and Compliant Digital Foundation",
-      "description": "Our technology approach focuses on embedding security, compliance and intelligent automation into every layer of the enterprise financial architecture. By leveraging automation, analytics, cloud-native banking platforms and intelligent monitoring, we help institutions proactively detect threats, enforce policies, and maintain regulatory alignment without disrupting business agility.",
-      "image": {
-        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
-        "alt": "hubops team working on technology solutions",
-        "ariaLabel": "hubops video banner"
-      }
-    },
-
-    "StepinInnovationData": {
-      "title": "Empower Your Journey with Expert Insight",
-      "description": "Schedule a consultation with our Financial service specialists ",
       "talk": "Let's talk"
     },
     "successStoriesSectionData": {
