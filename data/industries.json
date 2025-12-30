@@ -1335,23 +1335,23 @@
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
-            "title": "Lorem Lorem",
-            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+            "title": "Smart Automation",
+            "description": "Automate booking, dispatch, and warehouse processes to reduce delays and improve efficiency."
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
-            "title": "Lorem lorem",
-            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+            "title": "Route Optimization ",
+            "description": " Optimize routes and fleet operations using AI to cut transit time and fuel costs."
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
-            "title": "Lorem lorem",
-            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+            "title": "Supply Chain Visibility",
+            "description": " Track shipments and inventory with live dashboards for faster, informed decisions."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
-            "title": "Lorem lorem",
-            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+            "title": "Cloud-Based Platforms",
+            "description": " Enable scalable, cloud-native logistics systems for greater agility and integration."
           }
         ]
       }
@@ -1392,8 +1392,8 @@
       ]
     },
     "StepinInnovationData": {
-      "title": "Expert consultation",
-      "description": "Empower Your Journey with Expert Insight Schedule a consultation with our automotive specialists",
+      "title": "Empower Your Journey with Expert Insight",
+      "description": "Schedule a consultation with our Logistics specialists ",
       "talk": "Let's talk"
     },
     "ConsultSectionData": {
@@ -1417,26 +1417,26 @@
       "stories": [
         {
           "id": 1,
-          "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading EV manufacturer collaborate with us to deploy a secure, cloud native EV mobility infrastructure that supports connected vehicle platforms real time telematics and accelerating OTA software updates in alignment with SUMS requirements.",
+          "client": " Real time visibility",
+          "title": "A leading logistics provider improved delivery time by integrating real time shipment tracking and automated dispatch operations.Intelligent planning and AI driven insights help to reduce delays, enhance accuracy and increase customer satisfaction.",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
-          "client": "Platform Migration",
-          "title": "An e-commerce company migrated its platform to AWS cloud with support from our cloud migration experts, improving speed, scalability, and reliability during peak traffic.",
+          "client": "Warehouse Operations",
+          "title": "A large distribution center unified inventory data, workforce schedules and workflows into a single intelligent dashboards. This reduce bottlenecks, strengthened quality checks and improve throughout across high demand hours.",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
-          "client": "App Solution",
-          "title": "A retail chain developed a React Native mobile app with us, increasing customer engagement and online sales through custom software development and secure backend engineering.",
+          "client": "Fleet Management",
+          "title": "A transport company adopted AI driven vehicle diagnostics and automated route planning. This helps them to reduced unplanned downtime, accelerate delivery cycles and improve overall fleet performance and compliance.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 4,
-          "client": "Logistics Transformation",
-          "title": "A leading logistics firm transformed its supply chain by building a smart coordination platform that improved route planning and dispatch accuracy.",
+          "client": "Delivery Intelligence",
+          "title": "We partnered with a logistics company to improve delivery performance through real time visibility, route optimization, and cloud based systems. The solution reduced delays, improved on time deliveries, and enabled faster decision for efficient logistics operations.",
           "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
         }
       ]
