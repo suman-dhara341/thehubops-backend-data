@@ -530,8 +530,8 @@
 
   "healthcare": {
     "ApplicationsAIData": {
-      "title": "Revolutionizing Mobility Through Cognitive Transformation ",
-      "headerDescription": "Integrating cognitive intelligence to reshape mobility with precision, foresight and sustainable impact. ",
+      "title": "Healing Healthcare Through Innovation",
+      "headerDescription": "Blending technology and empathy deliver precision driven patient centered and future ready healthcare solutions.",
       "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
       "imageAlt": "Team working on AI solutions",
       "videoText": "Watch Video to Discover More",
@@ -550,35 +550,35 @@
         }
       ],
       "bottomSection": {
-        "heading": "Navigating Industry Pressures with Agility",
-        "paragraph1": "The automotive sector faces growing regulatory pressure, fierce competition, and pressure to improve operational efficiency. Strict emission laws and safety mandates demand agility and compliance innovation. Emerging EV and tech-driven entrants intensify market rivalry, challenging legacy automakers to evolve rapidly. Meanwhile, outdated systems and fragmented supply chains hinder efficiency and resilience, pushing the industry towards data-driven and intelligent transformation.",
+        "heading": "Evolving Expectations in Healthcare ",
+        "paragraph1": "Healthcare industry is undergoing a major shift as patient expectations rise and digital disruption accelerates. Many organizations still struggle with fragmented data systems, outdated technology, and regulatory complexity that slow progress. Growing operational costs and cybersecurity risks add more pressure to deliver quality care efficiently. ",
         "paragraph2": ""
       }
     },
     "ServicesSectionData": {
       "servicesTab": {
-        "heading": "Empowering the Future of Intelligent Mobility",
-        "subheading": "hubops help your enterprises navigate regulatory, competitive and operational challenges through intelligent, data driven solutions. From connected vehicles to smart manufacturing, our enterprise enable agility and growth.",
+        "heading": "Empowering Healing with Innovation",
+        "subheading": "Our solution brings intelligence and efficiency to healthcare. From AI powered diagnostics to integrate hospital systems, we enable smarter operations, secure data exchange and personalized patient care. Designed for scalability and compliance to deliver better patient outcome. ",
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
-            "title": "Lorem Lorem",
-            "description": "Smart manufacturing for automotive automating production through AI and IoT to enhance efficiency, uptime and operational agility."
+            "title": "Healthcare Automation",
+            "description": "Modernizing legacy healthcare operations through intelligent automation and digital platforms. "
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
-            "title": "Lorem lorem",
-            "description": "Software defined vehicle architecture enable intelligent, software defined vehicles powered by real time data and connected mobility."
+            "title": "Clinical Insights",
+            "description": "Leveraging data analytics empower healthcare organizations to turn raw data into meaningful insights that drive better clinical decisions. "
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
-            "title": "Lorem lorem",
-            "description": "Modernizing legacy infrastructure with secure, scalable cloud native mobility infrastructure, EV cloud infrastructure and vehicle data intelligence platforms."
+            "title": "Healthcare Infrastructure",
+            "description": "Enabling secure, scalable and compliant healthcare infrastructure through cloud integration."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
-            "title": "Lorem lorem",
-            "description": "Enhancing global operations with automotive data analytics solutions, digital visibility and smart factory solutions for automakers."
+            "title": "Secure and compliant systems",
+            "description": "Meeting healthcare standards with secure, audit ready framework ensure every process adherence to global compliance."
           }
         ]
       }
@@ -588,28 +588,28 @@
       "cards": [
         {
           "id": "01",
-          "title": "Empowering Secure Connected Mobility",
-          "description": "As the automotive landscape evolve into a more connected ecosystem, hubops deliver comprehensive automotive cybersecurity solutions, compliance framework and resilience strategies across the vehicle lifecycle."
+          "title": "Protecting Data",
+          "description": "Adherence to HIPAA ensures the  protecting patient health information through strict administrative, physical and technical safeguard under the security rule."
         },
         {
           "id": "02",
-          "title": "Automotive Cybersecurity",
-          "description": "Ensure cybersecurity align with global standards such as ISO/SAE 21434 compliance services helping manufacturers and suppliers to identify, assess, and mitigate cyber risks across hardware, software and connected mobility platforms."
+          "title": "Multi Factor Authentication ",
+          "description": "MFA strengthens system security by adding  an extra layer of log in security to protect and maintain security of sensitive and confidential information of system."
         },
         {
           "id": "03",
-          "title": "Cybersecurity and Software Updates",
-          "description": "hubops helps automakers Adhere to UNECE WP.29 regulations by implementing cybersecurity Management systems (CSMS) and Software Update Management Systems (SUMS) help to secure over the air software management and vehicle intelligence."
+          "title": "Securing EHR",
+          "description": "HIPPA privacy and security provision ensure and promote the safe adoption of electronic health records (EHR). It strengthens data protection ensuring patient information remain secure in an increasingly digital environment."
         },
         {
           "id": "04",
-          "title": "Functional Safety",
-          "description": "Adopting the ISO 26262 functional safety solutions managing and reducing risks associated with electrical and electronic systems, enable reliable and safe vehicle performance under all operating conditions."
+          "title": "Vendor Risk Management",
+          "description": "Ensuring all third party partners are handling healthcare data the same security and compliance as per the organizations. By managing vendor risk organizations safeguard patient information and maintain security. "
         },
         {
           "id": "05",
-          "title": "Environmental and Emission",
-          "description": "We support enterprises in achieving emission compliance and sustainability in automotive through adherence to EURO 6, EPA, and global green mobility standards."
+          "title": "Affordable care Act",
+          "description": "ACA  expands access to affordable healthcare while improving quality and transparency across the industry. It promotes value based care and emphasizes data integrity and security though accurate ERP and privacy. "
         }
       ]
     },
@@ -626,29 +626,42 @@
       "stories": [
         {
           "id": 1,
-          "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading EV manufacturer collaborate with us to deploy a secure, cloud native EV mobility infrastructure that supports connected vehicle platforms real time telematics and accelerating OTA software updates in alignment with SUMS requirements.",
+          "client": "AI-powered insights ",
+          "title": "A leading multi specialty hospital adopted our AI driven analytics platform to track patient vitals and predict risk factors in real time. It helps for faster diagnoses, reduced emergency admissions and improve patient satisfaction.",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
-          "client": "Platform Migration",
-          "title": "An e-commerce company migrated its platform to AWS cloud with support from our cloud migration experts, improving speed, scalability, and reliability during peak traffic.",
+          "client": "Cloud integration",
+          "title": "A network of diagnostic centers migrated to a unified cloud infrastructure, ensuring secure data sharing and seamless collaboration between labs and doctors. This transformation improved report turnaround time and enhanced data security across multiple locations.",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
-          "client": "App Solution",
-          "title": "A retail chain developed a React Native mobile app with us, increasing customer engagement and online sales through custom software development and secure backend engineering.",
+          "client": "Enhancing Compliance",
+          "title": "A healthcare provider struggling with regulatory audits implemented our audit-ready compliance framework. Automated monitoring and reporting tools reduced manual errors, ensuring full HIPAA compliance, and built stronger patient trust through transparent data practices.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 4,
-          "client": "Logistics Transformation",
-          "title": "A leading logistics firm transformed its supply chain by building a smart coordination platform that improved route planning and dispatch accuracy.",
+          "client": "Healthcare Modernization",
+          "title": "We helped a healthcare organization modernize operations with automation, analytics, and cloud platforms improving efficiency, clinical insights, and compliance while enabling better patient care.",
           "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
         }
       ]
+    },
+    "ConsultSectionData": {
+      "tagline": {
+        "fullText": "Technology Approach",
+        "highlight": "Tech"
+      },
+      "heading": "Empowering the Future of Mobility",
+      "description": "We focus on integrating intelligence, scalability and security into every layer of healthcare delivery. By AI, cloud and data analytics to enhance clinical decision making, improve decisions and ensure seamless interoperability. Building secure healthcare organizations to modernize infrastructure, improve patient care and drive digital transformation.",
+      "image": {
+        "src": "/services/Gemini_Generated_Image_z6z04zz6z04zz6z0.webp",
+        "alt": "hubops team working on technology solutions",
+        "ariaLabel": "hubops video banner"
+      }
     }
   },
 
