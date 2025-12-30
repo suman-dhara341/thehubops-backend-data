@@ -686,22 +686,22 @@
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
-            "title": "Lorem Lorem",
+            "title": "Customer support",
             "description": "AI Driven insurance systems power intelligent chatbots and virtual assistant enabling 24/7 customer support and enhanced customer experience for insurers."
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
-            "title": "Lorem lorem",
+            "title": "Predictive Analytics",
             "description": "Insurance data analytics solutions deliver predictive risk analytics for insurers, enabling proactive risk management and smarter underwriting decisions."
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
-            "title": "Lorem lorem",
+            "title": "Blockchain Transparency",
             "description": "Blockchain for insurance transparency ensures secure, auditable processes across the entire insurance value chain."
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
-            "title": "Lorem lorem",
+            "title": "Cloud based Platforms",
             "description": "Cloud based insurance solutions and cloud migration for insurance companies improves accessibility, scalability, and operational agility with secure cloud based infrastructure."
           }
         ]
@@ -747,7 +747,7 @@
     },
     "StepinInnovationData": {
       "title": "Empower Your Journey with Expert Insight",
-      "description": "Schedule a consultation with our Insurance specialists ",
+      "description": "Schedule a consultation with our Insurance specialists  ",
       "talk": "Let's talk"
     },
     "successStoriesSectionData": {
@@ -758,26 +758,26 @@
       "stories": [
         {
           "id": 1,
-          "client": "Building Scalable Cloud Foundation for Electric Mobility",
-          "title": "A leading EV manufacturer collaborate with us to deploy a secure, cloud native EV mobility infrastructure that supports connected vehicle platforms real time telematics and accelerating OTA software updates in alignment with SUMS requirements.",
+          "client": "AI Risk Intelligence",
+          "title": "By integrating AI powered underwriting solutions and predictive analytics insurance, a health insurance provider improve risk assessment efficiency and enable smarter, faster and more accurate underwriting decisions.This innovation allow to analyze real time insurance data and predict potential risk.",
           "image": "/home/7b5c0b68314d619543e9e09b3c39fd41cd0c1626.webp"
         },
         {
           "id": 2,
-          "client": "Platform Migration",
-          "title": "An e-commerce company migrated its platform to AWS cloud with support from our cloud migration experts, improving speed, scalability, and reliability during peak traffic.",
+          "client": "Cloud Innovation",
+          "title": "An insurance enterprises modernized its legacy system to a secure cloud native insurance platforms, enabling scalable insurance technology platforms, improved regulatory compliance and accelerate innovation through  seamless system integration, agility and performance. ",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 3,
-          "client": "App Solution",
-          "title": "A retail chain developed a React Native mobile app with us, increasing customer engagement and online sales through custom software development and secure backend engineering.",
+          "client": "AI Claims Automation",
+          "title": "A global insurance reduce claims processing time through insurance claims automation and automated claims processing systems significantly improving accuracy, efficiency and overall customer satisfaction.",
           "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop"
         },
         {
           "id": 4,
-          "client": "Logistics Transformation",
-          "title": "A leading logistics firm transformed its supply chain by building a smart coordination platform that improved route planning and dispatch accuracy.",
+          "client": "AI Driven Insurance",
+          "title": "We helped an insurance provider modernize operations with AI, analytics, and cloud platforms speeding claims, improving risk assessment, and enhancing customer experience.",
           "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2670&auto=format&fit=crop"
         }
       ]
