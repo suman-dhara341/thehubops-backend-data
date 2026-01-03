@@ -133,8 +133,8 @@
 
   "banking_and_financial": {
     "ApplicationsAIData": {
-      "title": "Empowering Utilities with connected, Real Time Intelligence ",
-      "headerDescription": "Bring Data, workflows and field operations together into one connected system, helping utilities optimize performance and customer experience. ",
+      "title": "Pioneering the Next Era of Digital Finance",
+      "headerDescription": "Accelerate banks and financial institutions with intelligent, secure and data-driven solutions to reshape a smarter financial ecosystem.",
       "image": "/services/applications_and_ai/67dcafc80e401922461d56593b601191c2dc6167.webp",
       "imageAlt": "Team working on AI solutions",
       "videoText": "Watch Video to Discover More",
@@ -153,35 +153,35 @@
         }
       ],
       "bottomSection": {
-        "heading": "Evolving challenges of Utilities ",
-        "paragraph1": "Utility industry struggle with legacy infrastructure, inefficient use of personnel, energy inefficiencies and poor data gathering practices.Disjointed communication and limited real time visibility create delays and the shift to renewable also make it more harder to operate efficiently and respond quickly to issues.",
+        "heading": "Navigating an Era of Financial Transformation ",
+        "paragraph1": "Banking and financial sector is facing growing pressure from strict regulation, cybersecurity risks and rising customer expectations. The legacy system hinders digital transformation while fintech defines the competitive landscape. To keep institutions ahead, modernize infrastructure, ensure compliance and deliver secure, personalized and seamless digital experience in an increasingly dynamic market.",
         "paragraph2": ""
       }
     },
     "ServicesSectionData": {
       "servicesTab": {
-        "heading": "Integrated solution for Utility Transformation ",
-        "subheading": "Our solution help utilities to modernize operations with real time visibility, intelligent asset management and automated field work. Streamlining metering, centralized data for easy compliance and enable communication across teams. With AI driven forecasting renewable integration, utilities can optimize energy use and maintain reliable and efficient service.",
+        "heading": "Comprehensive Solutions for a Smarter Financial Future",
+        "subheading": "Our solution brings together technology, intelligence and innovation to help financial institutions transform securely and efficiently. From modernizing core systems to enhancing customer engagement we provide scalable solutions that drive agility, compliance and growth.",
         "items": [
           {
             "icon": "/services/applications_and_ai/AI Icon.png",
             "title": "System Integration",
-            "description": "Connect legacy utilities system with modern platforms, ensuring data flows smooth across operations and reduce disruptions. "
+            "description": "Accelerate digital transformation by modernizing legacy system with secure, cloud enabled and agile platforms. "
           },
           {
             "icon": "/services/applications_and_ai/Outline.webp",
             "title": "Cloud Migration",
-            "description": "Help in moving critical applications to secure and scalable cloud environments improving accessibility and disaster recovery."
+            "description": "Strengthen cybersecurity and ensure regulatory compliance with advanced, trust driven security frameworks. "
           },
           {
             "icon": "/services/applications_and_ai/AI and automation.webp",
             "title": "Assest Management",
-            "description": "Track asset performance, predict failures and automate maintenance planning to extend life of critical infrastructure."
+            "description": "Empower the data and AI to gain predictive insights and deliver personalized customer experience. "
           },
           {
             "icon": "/services/applications_and_ai/Group 35783.webp",
             "title": "Energy Optimization",
-            "description": "Support utilities in managing variable renewable energy inputs, balancing supply and demand, and maintaining grid stability."
+            "description": "Streamline operations through intelligent automation that improves efficiency, accuracy and speed."
           }
         ]
       }
